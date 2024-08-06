@@ -31,7 +31,7 @@ export default function App() {
   return (
     <div className="app">
       <div>
-        <h2>User Data</h2>
+        <h2 className="heading">User Data</h2>
         <table className="table">
           <thead>
             <tr>
